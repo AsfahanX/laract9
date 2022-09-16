@@ -17,6 +17,9 @@ yarn-error.log
 # cache php cs fixer
 .php-cs-fixer.cache
 
+_ide_helper.php
+_ide_helper_models.php
+
 yarn.lock
 package-lock.json
 composer.lock
